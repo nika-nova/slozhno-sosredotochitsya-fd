@@ -17,6 +17,10 @@
   --header-title-color: #FFC2E6;
 }
 
+.theme-light .rec-element {
+  display: none;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     --bg-image: url(../images/cover-image-light.png);
@@ -29,5 +33,9 @@
     --button-hover: rgb(50 49 45 / 0.4);
     --accent-color: #FF8DCB;
     --header-title-color: #FFC2E6;
+  }
+
+  .rec-element {
+    display: none;
   }
 }

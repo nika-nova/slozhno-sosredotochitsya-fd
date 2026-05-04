@@ -11,7 +11,7 @@
   --mob-padding: 10px;
   --not-mob-padding: 20px;
   --min-height-mob: 668px;
-  --min-height-tablet: 992px;
+  --min-height-tablet: 1024px;
   --min-height-comp: 768px;
 
   --main-font: 'IBM Plex mono';
@@ -20,7 +20,7 @@
   --section-title-color: #FF0070;
   --subtitle-color: #000028;
   --button-color: #FF0070;
-  --button-hover: rgb(255 112 102 / 0.4);
+  --button-hover: rgb(255 0 112 / 0.4);
   --accent-color: #FF0070;
   --header-title-color: #DB00FF;
 }
